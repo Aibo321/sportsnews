@@ -26,7 +26,7 @@ Organizing files in this structure will help maintain a clean and scalable proje
 - **Background Music**: Play and pause button for background music that can be toggled by users.
 - **Accordion FAQ Section**: Frequently Asked Questions (FAQ) section where each question expands to show an answer, navigable with "Next" and "Back" buttons.
 
-### Football News Page (`football.html`)
+### Football(basketball,tennis) News Page (`football.html`)
 - **News Filtering**: Users can filter football news based on categories such as “RPL,” “World Cup,” and “Euroleague.” Each filter displays relevant articles only.
 - **Persisting Filter Selection**: The last selected filter is saved in `localStorage` to restore the choice when the user revisits the page.
 - **Theme Toggle**: Similar theme toggle functionality as on the homepage.
@@ -38,7 +38,7 @@ Organizing files in this structure will help maintain a clean and scalable proje
 - **Form Reset**: A "Clear" button is provided to reset all input fields in the contact form.
 - **Client-Side Form Validation**: JavaScript is used to validate the form fields before submission to ensure correct data entry.
 
-### Details Page (`details.html`)
+### Details Pages (`details.html`)
 - **Video Embedding**: A video player embedded on the page, with autoplay and interaction controls.
 - **Rating System**: A star-based rating system where users can rate the video from 1 to 5 stars. The selected rating updates the text below to reflect the user’s score (e.g., "1 star - Very Poor").
 - **Navigation Menu**: A consistent navigation menu allows users to move to other sections of the website easily.
